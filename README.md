@@ -550,6 +550,8 @@ It supports:
 * Portable `.duckdb` files
 * Smooth upgrade path to MotherDuck
 
+<img width="636" height="392" alt="image" src="https://github.com/user-attachments/assets/020ddd2a-ff9c-4d7c-b669-d5616ec5c9c9" />
+
 ## Why MotherDuck?
 
 MotherDuck gives the same DuckDB-style workflow a cloud target.
