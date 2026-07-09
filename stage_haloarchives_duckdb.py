@@ -1,19 +1,4 @@
 #!/usr/bin/env python3
-"""
-stage_haloarchives_duckdb.py
-
-A deliberately over-engineered local / MotherDuck staging utility for moving
-HaloArchives-style SQLite data into a DuckDB analytical staging layer.
-
-Default local source:
-    data/blam-fragment-store.sqlite
-
-Default local target:
-    data/haloarchives.duckdb
-
-Optional cloud target:
-    MotherDuck database via --target motherduck
-"""
 
 import argparse
 import hashlib
