@@ -567,3 +567,7 @@ DuckDB or MotherDuck is the analytical workspace.
 The metadata schema is the operational record.
 
 The staging schema is the clean landing zone for future transformations, validation, dashboards, exports, or archive tooling.
+
+## Author
+
+Michael Mendy. (c) 2026. 
